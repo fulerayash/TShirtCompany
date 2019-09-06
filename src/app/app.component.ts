@@ -48,8 +48,10 @@ export class AppComponent implements OnInit{
         "price": 5000,
         "quantity": 30,
         "color": 'White',
-        "imageUrlFront": "assets/images/Img1Front.PNG",
-        "imageUrlBack": "assets/images/Img1Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/FX2T4Zg/Img1-Front.png",
+        "imageUrlBack": "https://i.ibb.co/nLLyWCp/Img1Back.png",
+        "imageUrlFrontLocal": "assets/images/Img1Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img1Back.PNG",
         "imageSrc": ''
       },
 
@@ -60,8 +62,10 @@ export class AppComponent implements OnInit{
         "price": 995,
         "quantity": 23,
         "color": 'Ligth Grey',
-        "imageUrlFront": "assets/images/Img2Front.PNG",
-        "imageUrlBack": "assets/images/Img2Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/k8K0XCq/Img2-Front.png",
+        "imageUrlBack": "https://i.ibb.co/k5rjVrB/Img2Back.png",
+        "imageUrlFrontLocal": "assets/images/Img2Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img2Back.PNG",
         "imageSrc": ''
       },
 
@@ -72,8 +76,10 @@ export class AppComponent implements OnInit{
         "price": 1500,
         "quantity": 13,
         "color": 'Mate Black',
-        "imageUrlFront": "assets/images/Img3Front.PNG",
-        "imageUrlBack": "assets/images/Img3Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/C1phg0B/Img3-Front.png",
+        "imageUrlBack": "https://i.ibb.co/P63TsnK/Img3Back.png",
+        "imageUrlFrontLocal": "assets/images/Img3Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img3Back.PNG",
         "imageSrc": ''
       },
 
@@ -84,8 +90,10 @@ export class AppComponent implements OnInit{
         "price": 500,
         "quantity": 100,
         "color": 'Magenta',
-        "imageUrlFront": "assets/images/Img4Front.PNG",
-        "imageUrlBack": "assets/images/Img4Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/ch14F5q/Img4-Front.png",
+        "imageUrlBack": "https://i.ibb.co/cg91kjc/Img4Back.png",
+        "imageUrlFrontLocal": "assets/images/Img4Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img4Back.PNG",
         "imageSrc": ''
       },
 
@@ -96,8 +104,10 @@ export class AppComponent implements OnInit{
         "price": 1995,
         "quantity": 50,
         "color": 'Black & Yello',
-        "imageUrlFront": "assets/images/Img5Front.PNG",
-        "imageUrlBack": "assets/images/Img5Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/mqhbps1/Img5-Front.png",
+        "imageUrlBack": "https://i.ibb.co/ctz22Xr/Img5Back.png",
+        "imageUrlFrontLocal": "assets/images/Img5Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img5Back.PNG",
         "imageSrc": ''
       },
 
@@ -108,8 +118,10 @@ export class AppComponent implements OnInit{
         "price": 500,
         "quantity": 90,
         "color": 'White',
-        "imageUrlFront": "assets/images/Img6Front.PNG",
-        "imageUrlBack": "assets/images/Img6Back.PNG",
+        "imageUrlFront": "https://i.ibb.co/BqqB3Ny/Img6-Front.png",
+        "imageUrlBack": "https://i.ibb.co/F8xB6tS/Img6Back.png",
+        "imageUrlFrontLocal": "assets/images/Img6Front.PNG",
+        "imageUrlBackLocal": "assets/images/Img6Back.PNG",
         "imageSrc": ''
       }
     ]
